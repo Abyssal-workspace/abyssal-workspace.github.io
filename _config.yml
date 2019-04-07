@@ -50,8 +50,6 @@ keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
 author: kimuj5090@yss.al
-image: '/assets/images/cover/default_blog_cover.webp'
-jpgimage: '/assets/images/cover/default_blog_cover.jpg'
 asset_url: /assets
 google_analytics:
   ua: 'UA-137360712-1'
