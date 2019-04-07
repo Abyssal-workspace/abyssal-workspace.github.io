@@ -61,3 +61,5 @@ facebook:
 #  username: abyssal
 github_url:
   username: Abyssal-workspace
+
+theme: jekyll-theme-cayman
