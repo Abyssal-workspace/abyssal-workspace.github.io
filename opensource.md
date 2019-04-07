@@ -2,7 +2,7 @@
 layout: page
 title: Open Source
 description: Abyssal의 오픈소스를 소개합니다.
-image: /assets/images/cover/opensource.jpg
+image: /assets/images/cover/opensource.webp
 permalink: /opensource/
 sitemap: yes
 tags: [opensource]
