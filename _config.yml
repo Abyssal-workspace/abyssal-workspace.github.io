@@ -3,7 +3,7 @@ email: kimuj5090@yss.al
 description: |
   심연으로의 여행
 baseurl: ''
-url: 'http://ab.yss.al'
+url: 'https://abyssal-workspace.github.io/ab.yss.al/'
 timezone: Asia/Seoul 
 
 repository: KimEJ/ab.yss.al
